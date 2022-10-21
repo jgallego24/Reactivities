@@ -1,0 +1,15 @@
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
