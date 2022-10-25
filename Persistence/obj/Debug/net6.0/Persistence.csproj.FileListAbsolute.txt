@@ -13,3 +13,5 @@ D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reac
 D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb
 D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+D:\Users\jugalleg\OneDrive - Capgemini\Desktop\Locuras\Reactivities_project\Reactivities\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
